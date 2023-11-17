@@ -1,0 +1,2 @@
+SQLALCHEMY_DATABASE_URI = "postgresql://geonatadmin:monpassachanger@localhost:5432/geonature2db?application_name=flask-admin"
+SECRET_KEY = "SECERT_KEY
